@@ -22,7 +22,7 @@
  <div>
   <div dir='auto' > 
     <p> <b>Epoch Vs. Training Loss</b></p>
-     <img src=" https://user-images.githubusercontent.com/66842328/214340959-c6129623-636a-44bf-8ee0-df52e6b42395.PNG">
+     <img src="https://user-images.githubusercontent.com/66842328/214340959-c6129623-636a-44bf-8ee0-df52e6b42395.PNG">
  <div>
  
  
