@@ -2,9 +2,9 @@
 
 <div dir='auto' align='center'> 
   <p> Representation of train dataset frequency based on sentiment column</p>
-  ![My Image](train.png)
+  ![ZobayerAkib](train.png)
  <div>
   <div dir='auto' align='center'> 
   <p> Representation of test dataset frequency based on sentiment column</p>
-  ![My Image](test.png)
+  ![ZobayerAkib](test.png)
  <div>
