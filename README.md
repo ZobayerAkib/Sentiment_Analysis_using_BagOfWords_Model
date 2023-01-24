@@ -1,5 +1,15 @@
 <p dir='auto' align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7F7E3&center=true&vCenter=true&width=435&lines=***+Sentiment+Analysis+***;!!+Using+Bag+Of+Words+technique+!!" alt="Typing SVG" /></a></p>
 
+<div dir='auto'>
+  | Title| Score|
+| --- | --- |
+| `Accuracy:` | 0.999525 |
+| `Precision:` | 1.000000 |
+| `Recall:` | 0.999093 |
+| `F1-score:` | 0.999546 |
+</div>
+
+
 <div dir='auto' > 
   <p> Representation of train dataset frequency based on sentiment column</p>
   <img width=50% src="https://user-images.githubusercontent.com/66842328/214337144-d8a41661-1f53-4ba2-94f0-08cb0961d5f4.PNG">
