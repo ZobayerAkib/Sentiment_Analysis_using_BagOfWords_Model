@@ -2,10 +2,10 @@
 
 <div dir='auto' align='center'> 
   <p> Representation of train dataset frequency based on sentiment column</p>
-  <img src=" https://user-images.githubusercontent.com/66842328/214335891-56439edc-353b-4678-bd0a-4a4e27793298.png">
+  <img src="![train](https://user-images.githubusercontent.com/66842328/214337144-d8a41661-1f53-4ba2-94f0-08cb0961d5f4.PNG)">
 
  <div>
   <div dir='auto' align='center'> 
   <p> Representation of test dataset frequency based on sentiment column</p>
-  <img src="https://user-images.githubusercontent.com/66842328/214335946-bf01f0bc-19f5-4693-9288-473d2001b0b2.png"> 
+  <img src="![test](https://user-images.githubusercontent.com/66842328/214337175-d36239a8-9f6a-4851-bf73-09d1f094f47c.PNG)"> 
  <div>
